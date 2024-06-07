@@ -1,7 +1,7 @@
 {
-  "name": "react-native-skadnetwork",
+  "name": "@bejutassle/react-native-skadnetwork",
   "version": "0.1.0",
-  "description": "react-native-skadnetwork is a React Native module designed for use on the iOS platform. This module allows you to integrate SKAdNetwork features into your React Native projects.",
+  "description": "react-native-skadnetwork is a React Native module designed for use on the iOS platform. This module allows you to integrate SKAdNetwork features into your React Native projects seamlessly. It is fully compatible with third-party SDKs such as Firebase Analytics and Facebook Meta. The module is tailored for all iOS versions and currently supports a model with six events. Additionally, it supports SKAN 3 and SKAN 4 techniques for advanced tracking capabilities.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/src/index.d.ts",
@@ -37,7 +37,8 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "skadnetwork",
+    "skan"
   ],
   "repository": {
     "type": "git",
