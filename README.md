@@ -2,6 +2,8 @@
 
 react-native-skadnetwork is a React Native module designed for use on the iOS platform. This module allows you to integrate SKAdNetwork features into your React Native projects seamlessly. It is fully compatible with third-party SDKs such as Firebase Analytics and Facebook Meta. The module is tailored for all iOS versions and currently supports a model with six events. Additionally, it supports SKAN 3 and SKAN 4 techniques for advanced tracking capabilities.
 
+> **Note**: SKAdNetwork only reports conversion values to SKAN services for apps downloaded from the App Store.
+
 ## Features
 
 - **Seamless Integration**: Easily integrate SKAdNetwork features into your React Native projects.
